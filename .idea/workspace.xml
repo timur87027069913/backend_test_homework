@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="049abdd5-a746-49b3-8697-fb8362238cbe" name="Changes" comment="" />
+    <list default="true" id="049abdd5-a746-49b3-8697-fb8362238cbe" name="Changes" comment="the second commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +11,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Le9EuZthEZg8XcSfhi8lFTRBMe" />
   <component name="ProjectViewState">
@@ -19,7 +24,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/timur/Dev/character_creation_module"
+    "last_opened_file_path": "/home/timur/Dev/backend_test_homework/program.py"
   }
 }]]></component>
   <component name="RunManager">
@@ -54,6 +59,33 @@
       <option name="presentableId" value="Default" />
       <updated>1676220573093</updated>
     </task>
+    <task id="LOCAL-00001" summary="the first commit">
+      <created>1676221330825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676221330825</updated>
+    </task>
+    <task id="LOCAL-00002" summary="the first commit">
+      <created>1676221366029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676221366029</updated>
+    </task>
+    <task id="LOCAL-00003" summary="the second commit">
+      <created>1676222087445</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676222087445</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="the first commit" />
+    <MESSAGE value="the second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="the second commit" />
   </component>
 </project>
